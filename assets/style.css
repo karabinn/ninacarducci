@@ -81,7 +81,7 @@ body {
 }
 .about-me__introduction {
 	font-family: 'Spectral';
-	font-weight: 800;
+	font-weight: 300;
 	font-style: italic;
 	width: 60%;
 }
@@ -147,6 +147,7 @@ body {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
+	font-size: 25px;
 
 }
 .quote__author {
