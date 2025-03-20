@@ -6,6 +6,24 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+
+@font-face {
+	font-family: 'Inter';
+	src: url('fonts/Inter-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+  }
+
+@font-face {
+	font-family: 'Spectral';
+	src: url('fonts/Spectral-Regular.woff2') format('woff2'),
+		 url('fonts/Spectral-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+  }
+
 .top-header {
 	background-color: white;
 	position: sticky;
