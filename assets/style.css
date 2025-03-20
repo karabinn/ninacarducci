@@ -61,6 +61,12 @@ body {
 	width: 20px;
 }
 
+.visually-hidden{
+	opacity: 1;
+	color: rgb(0, 0, 0); 
+	background-color: rgb(255, 255, 255); 
+}
+	
 #about {
 	display: flex;
 	background-color: #F6D2B8;
