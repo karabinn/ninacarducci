@@ -357,6 +357,12 @@ input[type="submit"] {
 	.picture.left::before, .picture.right::before {
 		height: 150px;
 	}
+	.about-me__introduction {
+		width: 100%;
+	}
+	.quote__text{
+		font-size: 20px;
+	}
 	#services .container {
 		align-items: center;
 	}
